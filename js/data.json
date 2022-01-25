@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name" : "Apple iPhone 13 Pro Max",
+        "price": 1868,
+        "image": "./images/iphone.jpg"
+    },
+
+    {
+        "id": 2,
+        "name" : "Apple MacBook Pro 16",
+        "price": 6599,
+        "image": "./images/macbook.jpg"
+    },
+
+    {
+        "id": 3,
+        "name" : "Play Station 5",
+        "price": 499,
+        "image": "./images/ps5.jpg"
+    },
+
+    {
+        "id": 4,
+        "name" : "Nike MAG (Back to the Future 2016)",
+        "price": 96967,
+        "image": "./images/nike.jpg"
+    },
+
+    {
+        "id": 5,
+        "name" : "iPad Pro 2021 (12.9-inch)",
+        "price": 2299,
+        "image": "./images/ipad.jpg"
+    },
+
+    {
+        "id": 6,
+        "name" : "Football Team",
+        "price": 4600000000,
+        "image": "./images/football.jpg"
+    },
+
+    {
+        "id": 7,
+        "name" : "Yacht",
+        "price": 105525000,
+        "image": "./images/yacht.jpg"
+    },
+
+    {
+        "id": 8,
+        "name" : "Bugatti Chiron Super Sport 300",
+        "price": 3890000,
+        "image": "./images/bugatti.jpg"
+    },
+
+    {
+        "id": 9,
+        "name" : "Private Jet",
+        "price": 50000000,
+        "image": "./images/private-jet.jpg"
+    },
+
+    {
+        "id": 10,
+        "name" : "Mac Pro Tower",
+        "price": 5420200,
+        "image": "./images/mac-pro.jpg"
+    },
+    
+    {
+        "id": 11,
+        "name" : "OrionX (Gaming PC)",
+        "price": 41520,
+        "image": "./images/OrionX.jpg"
+    },
+    
+    {
+        "id": 12,
+        "name" : "Buckingham Palace",
+        "price": 6700000000,
+        "image": "./images/b-palace.jpg"
+    },
+    
+    {
+        "id": 13,
+        "name" : "Private Island",
+        "price": 610000000,
+        "image": "./images/private-island.jpg"
+    }
+]
