@@ -40,6 +40,12 @@
             </div>
         </div>
     </div>
+
+    <div class="for-phone">
+        It looks better on PC.
+        Nevertheless, click this to spend Elon Musk's Money
+        <a href="spend.php" class="btn learnMore"> Spend Elon Musk's Money</a>
+    </div>
 </body>
 
 <script>
